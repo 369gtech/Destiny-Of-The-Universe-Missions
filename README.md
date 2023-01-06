@@ -1,9 +1,9 @@
 # Destiny Of The Universe Missions
 
-Welcome to Destiny Of The Universe Alpha Missions which are a way for players to earn while they battle. Missions once started are informative and can last from a couple of minutes to 2 Weeks. This is going to be another opportunity for players to earn at the same time they are battling in the game. If your a player you would definitely be into buying land and special multi-mission NFT's so you can do more than one mission to layer your earnings capacity.
+Welcome to Destiny Of The Universe Missions which are a way for players to earn while they battle. Missions once started are informative and can last from a couple of minutes to 2 Weeks. This is going to be another opportunity for players to earn at the same time they are battling in the game. If your a player you would definitely be into buying land and special multi-mission NFT's so you can do more than one mission to layer your earnings capacity.
 
-Destiny Of The Universe Alpha Missions will include;
-
+<h2>Alpha Missions</h2>
+<p>Alpha Missions will include: will include:</p>
 <ul>
   <li>Daily Missions</li>
   <p></p>
@@ -30,7 +30,7 @@ Destiny Of The Universe Alpha Missions will include;
   <p></p>
     <li>Sustainable Missions</li>
   <p></p>
-  <p>Sustainable Missions are interconnected with all the missions. Here you will be able to complete missions to construct your sustainable energy systems (solar power and zero point energy), products (eco-tech), offer services (efficiency and planning) and waste management (life-cycle qcode system) while also earning certificates, earn carbon emissions for which you will be able to trade those carbon emissions and display your carbon footprint. Some NFT's gained through missions will be able to be attached to items within the game like the sustainable energy system to power portals, vehicles, mining and farming operations and so on which will earn you in game currency, NFT's, certificates, earn carbon emissions which can be traded so there are many opportunities for sustainable products and services to add value to the game.</p>
+  <p>Sustainable Missions are interconnected with all the missions. Here you will be able to complete missions to construct your sustainable energy systems (solar power and zero point energy), products (eco-tech), offer services (efficiency and planning) and waste management (life-cycle Qcode system) while also earning certificates, earn carbon emissions for which you will be able to trade those carbon emissions and display your carbon footprint. Some NFT's gained through missions will be able to be attached to items within the game like the sustainable energy system to power portals, vehicles, mining and farming operations and so on which will earn you in game currency, NFT's, certificates, earn carbon emissions which can be traded so there are many opportunities for sustainable products and services to add value to the game.</p>
   <p></p>
  </ul>
  
@@ -55,4 +55,4 @@ Destiny Of The Universe Alpha Missions will include;
   </ul>
 <p>There is a bigger picture for the Sun, Eclipse and Moon Alliance's when the game moves into expansion mode which will make the game very interesting as Alliances try to win the Star Trophy to be the Leader Of The Galactic Alliance. Lots of rewards for the winning faction(s).
  
-We will go into more details with missions in monoGames as we get closer to the opening of Destiny Of The Universe Game with special land giveaways for the lucky few who get into the game early. There will be a shares point system when completing missions and at the end of the day, your shares are tallied and then you will receive those rewards. These shares points are zeroed at the end of the 24 hour period and you will need to do a new set of missions for the new 24 hour period to earn the new daily rewards. If missions last longer than a day their is a likely hood that you will earn more shares and if there is any issue with longer missions and earning capacity the monoGames Team will look into changing the distribution so we have a fair game. To find out more, read the <a href="https://github.com/369gtech/White-Paper">White Paper</a> and <a href="https://github.com/369gtech/Tokenomics">Tokenomics</a> of monoGames. 
+We will go into more details with missions in monoGames as we get closer to the opening of Destiny Of The Universe Game with special land giveaways for the lucky few who get into the game early. There will be a shares point system when completing missions and at the end of the day, your shares are tallied and then you will receive those rewards. These shares points are zeroed at the end of the 24 hour period and you will need to do a new set of missions for the new 24 hour period to earn the new daily rewards. If missions last longer than a day there is a likelihood that you will earn more shares and if there is any issue with longer missions and earning capacity the monoGames Team will look into changing the distribution so we have a fair game. To find out more, read the White Paper and Tokenomics of monoGames. 
